@@ -1,6 +1,6 @@
-#Data Science & Business Analytics Internship
+# Data Science & Business Analytics Internship
 
-##Prediction using Decision Tree Algorithm (Task-6)
+## Prediction using Decision Tree Algorithm (Task-6)
 
 
 
