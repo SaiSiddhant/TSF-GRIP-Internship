@@ -1,6 +1,6 @@
-#Data Science & Business Analytics Internship
+# Data Science & Business Analytics Internship
 
-##Exploratory Data Analysis - Terrorism (Task-4)
+## Exploratory Data Analysis - Terrorism (Task-4)
 
 
 
