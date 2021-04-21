@@ -1,6 +1,6 @@
-#Data Science & Business Analytics Internship
+# Data Science & Business Analytics Internship
 
-##Exploratory Data Analysis - Retail (Task-3)
+## Exploratory Data Analysis - Retail (Task-3)
 
 
 
