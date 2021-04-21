@@ -1,6 +1,6 @@
-#Data Science & Business Analytics Internship
+# Data Science & Business Analytics Internship
 
-##Prediction using Unsupervised ML (Task-2)
+## Prediction using Unsupervised ML (Task-2)
 
 
 
